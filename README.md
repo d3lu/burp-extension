@@ -1,2 +1,2 @@
 # burp-extension
-An extender of burp suite.
+A custom extension of Burp Suite.
